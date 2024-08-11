@@ -1,0 +1,9 @@
+transformers
+deepspeed
+peft
+datasets
+accelerate
+numerize
+rouge_score
+termcolor
+tensorboard
